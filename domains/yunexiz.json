@@ -1,11 +1,12 @@
 {
-    "owner": {
-        "username": "Yunexiz",
-        "email": "yunexiz@aol.com"
-    },
-    "record": {
-        "A": ["109.71.252.37"], 
-        "TXT": ["v=spf1 include:spf.improvmx.com ~all"],
-        "MX": ["mx1.improvmx.com", "mx2.improvmx.com"]
-    }
+  "owner": {
+    "username": "yunexiz",
+    "discord": "1040303561847881729"
+  },
+  "records": {
+    "NS": [
+      "daniella.ns.cloudflare.com",
+      "noah.ns.cloudflare.com"
+    ]
+  }
 }

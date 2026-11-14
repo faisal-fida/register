@@ -1,9 +1,10 @@
 {
   "owner": {
     "username": "RichardKanshen",
-    "email": "richard@kanshen.click"
+    "email": "richard@kanshen.click",
+    "discord": "raydeguchi"
   },
-  "record": {
-    "CNAME": "deadcodegames.github.io"
+  "records": {
+    "CNAME": "deadcodegames.degit.page"
   }
 }

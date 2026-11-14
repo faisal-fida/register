@@ -1,9 +1,9 @@
 {
-    "owner": {
-        "username": "imranmollajoy",
-        "email": "imranmollajoy@gmail.com"
-    },
-    "record": {
-        "CNAME": "imranmollajoy.github.io"
-    }
+  "owner": {
+    "username": "Sahfin00"
+  },
+  "records": {
+    "CNAME": "imranhossain.pages.dev"
+  },
+  "proxied": true
 }
